@@ -1,3 +1,5 @@
+package task40;
+
 public class Task40 {
     void method(String arg1, int arg2) {
 

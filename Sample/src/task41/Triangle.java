@@ -1,3 +1,5 @@
+package task41;
+
 public class Triangle {
 
     private double a;

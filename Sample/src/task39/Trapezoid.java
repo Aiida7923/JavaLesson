@@ -1,3 +1,5 @@
+package task39;
+
 public class Trapezoid {
 
     public double topSide;
